@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\RegexAssgn\bin\Debug\net6.0\RegexAssgn.exe
+C:\Users\vgj24\source\repos\RegexAssgn\bin\Debug\net6.0\RegexAssgn.deps.json
+C:\Users\vgj24\source\repos\RegexAssgn\bin\Debug\net6.0\RegexAssgn.runtimeconfig.json
+C:\Users\vgj24\source\repos\RegexAssgn\bin\Debug\net6.0\RegexAssgn.dll
+C:\Users\vgj24\source\repos\RegexAssgn\bin\Debug\net6.0\ref\RegexAssgn.dll
+C:\Users\vgj24\source\repos\RegexAssgn\bin\Debug\net6.0\RegexAssgn.pdb
+C:\Users\vgj24\source\repos\RegexAssgn\obj\Debug\net6.0\RegexAssgn.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\RegexAssgn\obj\Debug\net6.0\RegexAssgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\RegexAssgn\obj\Debug\net6.0\RegexAssgn.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\RegexAssgn\obj\Debug\net6.0\RegexAssgn.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\RegexAssgn\obj\Debug\net6.0\RegexAssgn.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\RegexAssgn\obj\Debug\net6.0\RegexAssgn.dll
+C:\Users\vgj24\source\repos\RegexAssgn\obj\Debug\net6.0\ref\RegexAssgn.dll
+C:\Users\vgj24\source\repos\RegexAssgn\obj\Debug\net6.0\RegexAssgn.pdb
+C:\Users\vgj24\source\repos\RegexAssgn\obj\Debug\net6.0\RegexAssgn.genruntimeconfig.cache
