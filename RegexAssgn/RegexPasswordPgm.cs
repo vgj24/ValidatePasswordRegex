@@ -16,8 +16,8 @@ namespace RegexAssgn
         public static string MobileNumber = "^[0-9]{2}[ ][7,8,9][0-9]{9}$"; //UC4: mobile number
         public static string PASSWORD = "^(?=.*[a-z])(?=.*[0-9])(?=.*[!@#$%&_])(?=.*[A-Z])[a-zA-Z0-9!@#$%&_]{8,}$";
 
-#region Validate First Name
-public bool ValidateFirstname(string Fname)
+        #region Validate First Name
+    public bool ValidateFirstname(string Fname)
         {
             Console.Write(" "+Fname);
             return Regex.IsMatch(Fname, FirstName);
@@ -32,10 +32,10 @@ public bool ValidateFirstname(string Fname)
         #endregion
 
         #region ValidateEmail
-        public bool ValidateEmail(string sampleemail)
+        public bool ValidateEmail(string emailid)
         {
-            Console.Write(" "+sampleemail);
-            return Regex.IsMatch(sampleemail,Email);
+            Console.Write(" "+emailid);
+            return Regex.IsMatch(emailid,Email);
         }
 
         #endregion
@@ -54,11 +54,10 @@ public bool ValidateFirstname(string Fname)
         #endregion
 
         #region validateMobile number
-        public bool ValidateMobileNumber(string mobnum)
+        public bool ValidateMobileNumber(string MobNum)
         {
-            Console.Write(" "
-                +mobnum);
-            return Regex.IsMatch(mobnum, MobileNumber);
+            Console.Write(" "+MobNum);
+            return Regex.IsMatch(MobNum, MobileNumber);
         }
         #endregion
         #region ValidatePassword
