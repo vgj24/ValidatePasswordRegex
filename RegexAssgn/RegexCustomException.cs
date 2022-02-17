@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace RegexAssgn
 {
-    internal class RegexCustomException : Exception
+    public class RegexCustomException : Exception
     {
+        public string message;
         public enum ExceptionType
         {
             NULLVALUE_EXCEPTION,
@@ -15,7 +16,10 @@ namespace RegexAssgn
             INVALID_LASTNAME,
             INVALID_MOBILENUMBER,
             INVALID_EMAIL,
-            INVALID_PASSWORD
+            INVALID_PASSWORD,
+            NO_SUCH_CLASS,
+            NO_CONSTRUCTOR_FOUND,
+            NO_SUCH_METHOD,
         }
         private readonly ExceptionType type;
         public RegexCustomException(ExceptionType Type, String message) : base(message)
